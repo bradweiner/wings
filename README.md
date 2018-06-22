@@ -12,5 +12,7 @@ https://docs.google.com/spreadsheets/d/1aqXDv59uom_5XgqYyF3HE4-AfC2X_vWcFh2YovFo
 
 All Credit goes to JD Hovland. 
 
+Photo Credit in Shiny app to the City Pages.
+
 
 
